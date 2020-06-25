@@ -1,2 +1,2 @@
-# blm_onboarding
-Black Lives Matter Onboarding App - Flutter UI - Speed Code
+# Black Lives Matter Onboarding App
+Source Code - Enjoy !
