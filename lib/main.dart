@@ -63,8 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
           gradient: LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
-            stops: [0.1, 0.4, 0.7, 0.9],
-            colors: [
+            List: [
               Color(0xFFfffaab),
               Color(0xFFfaf6b4),
               Color(0xFFfcf9ca),
